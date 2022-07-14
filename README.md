@@ -1,2 +1,2 @@
 # cpp-apache-module-example
-Apache Module Example Built With C++ 
+Ejemplo de construcción de un módulo para el servidor HTTP Apache mediante C/C++
